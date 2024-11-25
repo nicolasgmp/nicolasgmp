@@ -28,7 +28,7 @@
 <br>
 - 🌱 Studying Golang
 - 👨‍💻 Working with Typescript
-- 📫 Contact me: magrininicolas@outlook.com or twitter(currently banned in Brazil)
+- 📫 Contact me: magrininicolas@outlook.com or twitter
 <div style="display: inline_block">
   Me as a gopher
   <img align="center" height="300" width="300" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/b7f9d74b3233514070c188363945e58547ac1d9a.png" />
