@@ -5,7 +5,7 @@
 - 💼 Trabalhando atualmente na Compass UOL.
 - 🌱 Aprendendo mais sobre Golang, Typescript, Design Patterns e Ferramentas DevOps.
 
-☁️ ** Certificações **
+☁️ **Certificações**
 
 [Amazon Cloud Practitioner](https://www.credly.com/badges/92bd9591-d970-45b4-9b9e-2078f405289c) | 
 [Java](https://certificados-ngmp.s3.us-west-1.amazonaws.com/java_certificado.pdf) | 
@@ -15,7 +15,7 @@
 
 ## Minhas Skills
 
-** Programação ** 
+**Programação** 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
