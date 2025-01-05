@@ -55,7 +55,7 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgmp&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgmp&show_icons=true&theme=merko)
 
 ## Onde Falar Comigo
 
