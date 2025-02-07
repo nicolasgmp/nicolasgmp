@@ -20,12 +20,6 @@
 
 #
 
-**Ferramentas de Agile** 
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-#
-
 **DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux" />
