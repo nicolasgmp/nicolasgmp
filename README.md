@@ -16,8 +16,7 @@
 
 **Programação** 
 
-
-<img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,docker,cpp,vim" />
+<img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,cpp,neovim" />
 
 **Ferramentas de Agile** 
 
@@ -26,6 +25,8 @@
 #
 
 **DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux" />
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
