@@ -18,6 +18,8 @@
 
 <img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,cpp" />
 
+#
+
 **Ferramentas de Agile** 
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
