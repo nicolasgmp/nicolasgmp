@@ -22,7 +22,7 @@
 
 **DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" />
 
 #
 
