@@ -15,11 +15,7 @@
 ## Minhas Skills
 
 **Programação** 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,docker,cpp,vim" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,docker,cpp,vim" />
 
 **Ferramentas de Agile** 
 
