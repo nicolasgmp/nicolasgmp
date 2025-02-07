@@ -16,7 +16,7 @@
 
 **Programação** 
 
-<img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,cpp" />
+<img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,cpp,python" />
 
 #
 
@@ -35,5 +35,5 @@
 
 ## Onde Falar Comigo
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasgmpereira)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nicolasgmpereira)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:magrininicolas@outlook.com)
