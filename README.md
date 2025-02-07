@@ -11,7 +11,6 @@
 [Java](https://certificados-ngmp.s3.us-west-1.amazonaws.com/java_certificado.pdf) | 
 [Algoritmos e Lógica de Programação](https://certificados-ngmp.s3.us-west-1.amazonaws.com/logica_certificado.pdf)
 
-#
 
 ## Minhas Skills
 
@@ -21,7 +20,6 @@
     <img src="https://skillicons.dev/icons?i=typescript,java,go,nestjs,spring,docker,cpp,vim" />
   </a>
 </p>
-#
 
 **Ferramentas de Agile** 
 
