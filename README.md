@@ -2,7 +2,7 @@
 
 ## Sobre mim 
 - 🎓 Cursando o 5º Período de Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim.
-- 💼 Trabalhando atualmente na Compass UOL.
+- 💼 Trabalhando atualmente na Invillia.
 - 🌱 Aprendendo mais sobre Golang, Typescript, Design Patterns e Ferramentas DevOps.
 
 ☁️ **Certificações**
