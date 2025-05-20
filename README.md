@@ -16,19 +16,19 @@
 
 **Programação** 
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,go,spring,cpp,python,kafka" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,go,spring,kafka,cpp" />
 
 #
 
 **DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
 
 #
 
 **Ferramentas de Desenvolvimento** 
 
-<img src="https://skillicons.dev/icons?i=neovim,linux,windows,postman" />
+<img src="https://skillicons.dev/icons?i=neovim,linux" />
 
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgmp&show_icons=true&theme=radical)
