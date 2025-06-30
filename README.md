@@ -16,7 +16,7 @@
 
 **Programação** 
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,go,spring,kafka,cpp" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,go,spring,kafka,cpp,react,ts" />
 
 #
 
