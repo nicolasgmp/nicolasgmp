@@ -28,7 +28,7 @@
 
 **Ferramentas de Desenvolvimento** 
 
-<img src="https://skillicons.dev/icons?i=neovim,linux" />
+<img src="https://skillicons.dev/icons?i=neovim,linux,idea" />
 
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgmp&show_icons=true&theme=radical)
