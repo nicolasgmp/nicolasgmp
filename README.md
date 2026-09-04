@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=nicolasgmp&color=blue)
 
 ## Sobre mim 
-- 🎓 Cursando o 6º Período de Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim.
 - 💼 Trabalhando atualmente na Invillia/Pagbank.
-- 🌱 Aprendendo mais sobre Golang, Typescript, Design Patterns e Ferramentas DevOps.
+- 🌱 Aprendendo mais sobre Golang, System Design, Design Patterns e Ferramentas DevOps.
 
 ☁️ **Certificações**
 
